@@ -1,4 +1,4 @@
-# OER3_ASKISI-KATANOISIS-KEIMENOY
+# OER3_«Άσκηση κατανόησης κειμένου»
 
  https://frinikos.github.io/OER3_ASKISI-KATANOISIS-KEIMENOY/
  
